@@ -1,6 +1,6 @@
 <?php
 
-echo 'اینو الان اضافه کردم';
+echo 'version 3';
 
 return [
     App\Providers\AppServiceProvider::class,
